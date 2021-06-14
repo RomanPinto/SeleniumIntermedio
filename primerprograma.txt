@@ -1,4 +1,5 @@
+usuario: farma2
+password: UY54$2HGF4458f
 
-
-*************************************
-DATTATEC
+hostname ftp
+s2.neodns.info
